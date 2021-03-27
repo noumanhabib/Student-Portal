@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Student Portal</string>
+    <string name="student_name">John Deo</string>
+    <string name="student_class">BSSE-6</string>
+    <string name="student_Reg_No">18-ARID-2982</string>
+    <string name="student_father_name">Star Deo</string>
+    <string name="student_cnic">37401–1111111–1</string>
+    <string name="student_emg">3135300005</string>
+    <string name="student_address">Street 2788 Olen Thomas Drive, City Florida, State United Kingdom, Zip Code 76201</string>
+
+
+</resources>
