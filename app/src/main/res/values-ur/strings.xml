@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="reg_label" >رجسٹریشن نمبر:</string>
+    <string name="fname_label" >والد کا نام:</string>
+    <string name="cnic_label" >CNIC</string>
+    <string name="emg_label" >ایمرجنسی#</string>
+    <string name="addr_label" >پتہ:</string>
+    <string name="contact_label">رابطہ کریں</string>
+
+    <string name="app_name">اسٹوڈنٹ پورٹل</string>
+    <string name="student_name" >جان ڈیو</string>
+    <string name="student_father_name">اسٹار ڈیو</string>
+    <string name="student_address">اسٹریٹ 2788 اولن تھامس ڈرائیو ، سٹی فلوریڈا ، ریاست برطانیہ ، زپ کوڈ 76201</string>
+</resources>

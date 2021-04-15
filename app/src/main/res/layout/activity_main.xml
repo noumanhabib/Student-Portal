@@ -93,7 +93,7 @@
             android:fontFamily="sans-serif"
             android:gravity="center_vertical"
             android:letterSpacing="0.05"
-            android:text="Reg.No:"
+            android:text="@string/reg_label"
             android:textColor="#1B1919"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -106,7 +106,7 @@
             android:layout_marginTop="170dp"
             android:fontFamily="sans-serif"
             android:letterSpacing="0.05"
-            android:text="Address:"
+            android:text="@string/addr_label"
             android:textColor="#1B1919"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -120,7 +120,7 @@
             android:fontFamily="sans-serif"
             android:gravity="center_vertical"
             android:letterSpacing="0.1"
-            android:text="Emg.#"
+            android:text="@string/emg_label"
             android:textColor="#1B1919"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -134,7 +134,7 @@
             android:fontFamily="sans-serif"
             android:gravity="center_vertical"
             android:letterSpacing="0.1"
-            android:text="CNIC:"
+            android:text="@string/cnic_label"
             android:textColor="#1B1919"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -148,7 +148,7 @@
             android:fontFamily="sans-serif"
             android:gravity="center_vertical"
             android:letterSpacing="0.1"
-            android:text="F.Name:"
+            android:text="@string/fname_label"
             android:textColor="#1B1919"
             android:textSize="16sp"
             android:textStyle="bold" />
@@ -219,7 +219,7 @@
             android:layout_marginStart="10dp"
             android:layout_marginTop="260dp"
             android:letterSpacing="0.05"
-            android:text="Contact"
+            android:text="@string/contact_label"
             android:textColor="#000000"
             android:textSize="20sp"
             android:textStyle="bold" />
